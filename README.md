@@ -2,6 +2,10 @@
 
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
   
+  Click the link below to watch the video below for a walkthrough on how to use this app:
+  
+  [Walkthrough video link](https://drive.google.com/file/d/1AtoCqsBpSKm2r9ddp9pByQXRZ_eCqCyq/view?usp=sharing)
+  
   ## Description
   
   This project is an API database for a fictional e-commerce website. There are various categories, products, and tags for each item in the fictional store, and this app allows a user to access the data from this website. 
